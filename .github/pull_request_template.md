@@ -9,7 +9,7 @@ Screen names where the changes are applicable, also please add any side effects 
 
 ## Checklist:
 - [ ] I have self-reviewed my code
-- [ ] I have completed dev testing
+- [ ] I have completed dev testing and integration testing
 - [ ] I have added feature flag
 - [ ] I have attached video/image of the feature
 - [ ] Added comments in hard-to-understand areas and public methods
